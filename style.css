@@ -1,0 +1,21 @@
+body{
+    background-color: #f9f9ff;
+}
+
+.border{
+    border: none !important;
+}
+
+.img{
+    max-height: 100%;
+}
+.link{
+    background-color: #8491ff;
+}
+.link:hover{
+    color:#fff;
+    background: #000;
+}
+.bg_color{
+    background-color: #8490ff;
+}
